@@ -1,0 +1,2 @@
+# nextJstry
+First NextJs App
